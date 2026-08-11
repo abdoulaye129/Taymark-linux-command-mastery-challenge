@@ -40,4 +40,5 @@ Every day's folder contains the exact commands I ran, the output they returned, 
 ## About Me
 **Abdulmateen Abdulkareem /Taymark** — Cloud and DevOps fellow with 6 months of deliberate, daily immersion after transitioning as a graduate of plant biology . I'm actively building muscle memory for provisioning, automation, and system administration.This challenge exists because I hold myself to public accountability. If I'm going to claim cloud fluency, I need to prove I can navigate, script, and recover the hosts it runs on—commit by commit.
 www.linkedin.com/in/abdulmartin-abdulkareem-205566367
-##LinkedIn article series
+## LinkedIn article series
+www.linkedin.com/in/abdulmartin-abdulkareem-205566367
