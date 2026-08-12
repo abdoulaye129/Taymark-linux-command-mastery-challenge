@@ -8,8 +8,8 @@ Every day's folder contains the exact commands I ran, the output they returned, 
 | Day | Topic | Status | Link |
 |:---:|-------|:------:|------|
 | 1 | Where Am I? Basic Orientation | ✅ Done | [day-01-file-navigation](./day-01-file-navigation) |
-| 2 | Creating, Copying, Moving, Deleting | 🔲 Not started | [day-02-file-operations](./day-02-file-operations) |
-| 3 | Reading & Inspecting Files | 🔲 Not started | [day-03-file-inspection](./day-03-file-inspection) |
+| 2 | Creating, Copying, Moving, Deleting | ✅ Done | [day-02-file-operations](./day-02-file-operations) |
+| 3 | Reading & Inspecting Files | In progress | [day-03-file-inspection](./day-03-file-inspection) |
 | 4 | Searching the Filesystem | 🔲 Not started | [day-04-filesystem-search](./day-04-filesystem-search) |
 | 5 | Paths, Links & Tree Structures (Checkpoint) | 🔲 Not started | [day-05-links-checkpoint](./day-05-links-checkpoint) |
 | 6 | Reading & Setting Permissions | 🔲 Not started | [day-06-permissions](./day-06-permissions) |
@@ -41,4 +41,5 @@ Every day's folder contains the exact commands I ran, the output they returned, 
 **Abdulmateen Abdulkareem /Taymark** — Cloud and DevOps fellow with 6 months of deliberate, daily immersion after transitioning as a graduate of plant biology . I'm actively building muscle memory for provisioning, automation, and system administration.This challenge exists because I hold myself to public accountability. If I'm going to claim cloud fluency, I need to prove I can navigate, script, and recover the hosts it runs on—commit by commit.
 www.linkedin.com/in/abdulmartin-abdulkareem-205566367
 ## LinkedIn article series
-www.linkedin.com/in/abdulmartin-abdulkareem-205566367
+https://www.linkedin.com/posts/abdulmartin-abdulkareem-205566367_linux-commandline-devops-share-7493002705460809728-Oc_v/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFsHe6UBrbYYxGve0evdfjVbM8gRPLaEM7c
+
