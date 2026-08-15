@@ -9,8 +9,8 @@ Every day's folder contains the exact commands I ran, the output they returned, 
 |:---:|-------|:------:|------|
 | 1 | Where Am I? Basic Orientation | ✅ Done | [day-01-file-navigation](./day-01-file-navigation) |
 | 2 | Creating, Copying, Moving, Deleting | ✅ Done | [day-02-file-operations](./day-02-file-operations) |
-| 3 | Reading & Inspecting Files | In progress | [day-03-file-inspection](./day-03-file-inspection) |
-| 4 | Searching the Filesystem | 🔲 Not started | [day-04-filesystem-search](./day-04-filesystem-search) |
+| 3 | Reading & Inspecting Files | ✅ Done  | [day-03-file-inspection](./day-03-file-inspection) |
+| 4 | Searching the Filesystem | in progress | [day-04-filesystem-search](./day-04-filesystem-search) |
 | 5 | Paths, Links & Tree Structures (Checkpoint) | 🔲 Not started | [day-05-links-checkpoint](./day-05-links-checkpoint) |
 | 6 | Reading & Setting Permissions | 🔲 Not started | [day-06-permissions](./day-06-permissions) |
 | 7 | Ownership & Special Bits | 🔲 Not started | [day-07-ownership](./day-07-ownership) |
