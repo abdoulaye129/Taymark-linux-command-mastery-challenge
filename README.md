@@ -11,7 +11,7 @@ Every day's folder contains the exact commands I ran, the output they returned, 
 | 2 | Creating, Copying, Moving, Deleting | ✅ Done | [day-02-file-operations](./day-02-file-operations) |
 | 3 | Reading & Inspecting Files | ✅ Done  | [day-03-file-inspection](./day-03-file-inspection) |
 | 4 | Searching the Filesystem | ✅ Done | [day-04-filesystem-search](./day-04-filesystem-search) |
-| 5 | Paths, Links & Tree Structures (Checkpoint) | in progress | [day-05-links-checkpoint](./day-05-links-checkpoint) |
+| 5 | Paths, Links & Tree Structures (Checkpoint) | ✅ Done | [day-05-links-checkpoint](./day-05-links-checkpoint) |
 | 6 | Reading & Setting Permissions | 🔲 Not started | [day-06-permissions](./day-06-permissions) |
 | 7 | Ownership & Special Bits | 🔲 Not started | [day-07-ownership](./day-07-ownership) |
 | 8 | Privilege Escalation & Identity | 🔲 Not started | [day-08-privilege-escalation](./day-08-privilege-escalation) |
