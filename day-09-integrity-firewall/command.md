@@ -1,4 +1,4 @@
-# commands.md — Day 9: Integrity, Encryption & Firewalling
+#  Day 9: Integrity, Encryption & Firewalling
 
 1. **md5sum** — generates an MD5 checksum for a file, giving you a fingerprint you can compare against a known-good value to confirm the file wasn't altered. Fast, but considered weak for security purposes these days.
 
