@@ -13,7 +13,7 @@ Every day's folder contains the exact commands I ran, the output they returned, 
 | 4 | Searching the Filesystem | ✅ Done | [day-04-filesystem-search](./day-04-filesystem-search) |
 | 5 | Paths, Links & Tree Structures (Checkpoint) | ✅ Done | [day-05-links-checkpoint](./day-05-links-checkpoint) |
 | 6 | Reading & Setting Permissions | ✅ Done  | [day-06-permissions](./day-06-permissions) |
-| 7 | Ownership & Special Bits | 🔲 Not ✅ Done | [day-07-ownership](./day-07-ownership) |
+| 7 | Ownership & Special Bits | ✅ Done | [day-07-ownership](./day-07-ownership) |
 | 8 | Privilege Escalation & Identity | ✅ Done  | [day-08-privilege-escalation](./day-08-privilege-escalation) |
 | 9 | Integrity, Encryption & Firewalling | ✅ Done  | [day-09-integrity-firewall](./day-09-integrity-firewall) |
 | 10 | Security Checkpoint & Audit | ✅ Done  | [day-10-security-audit-checkpoint](./day-10-security-audit-checkpoint) |
