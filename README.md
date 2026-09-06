@@ -19,22 +19,22 @@ Every day's folder contains the exact commands I ran, the output they returned, 
 | 10 | Security Checkpoint & Audit | ✅ Done  | [day-10-security-audit-checkpoint](./day-10-security-audit-checkpoint) |
 | 11 | Creating & Managing Users | ✅ Done  | [day-11-user-management](./day-11-user-management) |
 | 12 | Groups & Access Circles | ✅ Done | [day-12-groups](./day-12-groups) |
-| 13 | APT Package Management | 🔲 Not started | [day-13-apt-package-management](./day-13-apt-package-management) |
-| 14 | DNF/YUM & Alternative Installs | 🔲 Not started | [day-14-dnf-yum](./day-14-dnf-yum) |
-| 15 | Users & Packages Checkpoint | 🔲 Not started | [day-15-provisioning-checkpoint](./day-15-provisioning-checkpoint) |
-| 16 | Environment Variables | 🔲 Not started | [day-16-environment-variables](./day-16-environment-variables) |
-| 17 | Persisting Configuration | 🔲 Not started | [day-17-shell-configuration](./day-17-shell-configuration) |
-| 18 | Vim Fundamentals | 🔲 Not started | [day-18-vim-fundamentals](./day-18-vim-fundamentals) |
-| 19 | Vim Navigation & Search/Replace | 🔲 Not started | [day-19-vim-search-replace](./day-19-vim-search-replace) |
-| 20 | Text Processing & Pipes (Checkpoint) | 🔲 Not started | [day-20-text-processing-checkpoint](./day-20-text-processing-checkpoint) |
-| 21 | Viewing Processes | 🔲 Not started | [day-21-viewing-processes](./day-21-viewing-processes) |
-| 22 | Controlling Processes with Signals | 🔲 Not started | [day-22-process-signals](./day-22-process-signals) |
-| 23 | Init Systems & systemctl Basics | 🔲 Not started | [day-23-systemctl-basics](./day-23-systemctl-basics) |
-| 24 | Deeper Service Management & Logs | 🔲 Not started | [day-24-service-logs](./day-24-service-logs) |
-| 25 | Process & Service Checkpoint | 🔲 Not started | [day-25-operational-snapshot-checkpoint](./day-25-operational-snapshot-checkpoint) |
-| 26 | Networking Basics | 🔲 Not started | [day-26-networking-basics](./day-26-networking-basics) |
-| 27 | Remote Access & File Transfer | 🔲 Not started | [day-27-ssh-file-transfer](./day-27-ssh-file-transfer) |
-| 28 | Bash Scripting Foundations | 🔲 Not started | [day-28-bash-scripting](./day-28-bash-scripting) |
+| 13 | APT Package Management | ✅ Done | [day-13-apt-package-management](./day-13-apt-package-management) |
+| 14 | DNF/YUM & Alternative Installs | ✅ Done | [day-14-dnf-yum](./day-14-dnf-yum) |
+| 15 | Users & Packages Checkpoint | ✅ Done | [day-15-provisioning-checkpoint](./day-15-provisioning-checkpoint) |
+| 16 | Environment Variables | ✅ Done | [day-16-environment-variables](./day-16-environment-variables) |
+| 17 | Persisting Configuration | ✅ Done | [day-17-shell-configuration](./day-17-shell-configuration) |
+| 18 | Vim Fundamentals | ✅ Done | [day-18-vim-fundamentals](./day-18-vim-fundamentals) |
+| 19 | Vim Navigation & Search/Replace | ✅ Done| [day-19-vim-search-replace](./day-19-vim-search-replace) |
+| 20 | Text Processing & Pipes (Checkpoint) | ✅ Done | [day-20-text-processing-checkpoint](./day-20-text-processing-checkpoint) |
+| 21 | Viewing Processes | ✅ Done | [day-21-viewing-processes](./day-21-viewing-processes) |
+| 22 | Controlling Processes with Signals | ✅ Done | [day-22-process-signals](./day-22-process-signals) |
+| 23 | Init Systems & systemctl Basics | ✅ Done | [day-23-systemctl-basics](./day-23-systemctl-basics) |
+| 24 | Deeper Service Management & Logs | ✅ Done | [day-24-service-logs](./day-24-service-logs) |
+| 25 | Process & Service Checkpoint | ✅ Done | [day-25-operational-snapshot-checkpoint](./day-25-operational-snapshot-checkpoint) |
+| 26 | Networking Basics | ✅ Done | [day-26-networking-basics](./day-26-networking-basics) |
+| 27 | Remote Access & File Transfer |✅ Done | [day-27-ssh-file-transfer](./day-27-ssh-file-transfer) |
+| 28 | Bash Scripting Foundations | ✅ Done | [day-28-bash-scripting](./day-28-bash-scripting) |
 | 29 | Functions, Arguments & Automation | 🔲 Not started | [day-29-functions-automation](./day-29-functions-automation) |
 | 30 | Capstone: Full System Command Mastery Review | 🔲 Not started | [day-30-capstone](./day-30-capstone) |
 ## About Me
